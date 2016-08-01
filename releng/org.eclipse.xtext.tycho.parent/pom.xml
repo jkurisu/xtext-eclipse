@@ -302,7 +302,7 @@
 						<goals>
 							<goal>source-feature</goal>
 						</goals>
-						<configuration>
+						<!-- <configuration>
 							<excludes>
 								<plugin id="org.eclipse.xtext.xbase.lib" />
 								<plugin id="org.eclipse.xtext.xbase.lib.gwt" />
@@ -341,7 +341,7 @@
 								<feature id="org.eclipse.xtext.xtext.ui" />
 								<feature id="org.eclipse.xtext.gwt" />
 							</excludes>
-						</configuration>
+						</configuration> -->
 					</execution>
 				</executions>
 			</plugin>
